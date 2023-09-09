@@ -1,0 +1,3 @@
+echo >> "echo slam"
+pause
+echo >> "psi blades"

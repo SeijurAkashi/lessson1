@@ -1,0 +1,2 @@
+echo >> "sun strike"
+pause
